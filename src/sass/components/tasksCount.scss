@@ -1,0 +1,24 @@
+.tasksCount-section {
+  border: 1px solid #007e5e;
+  width: 90%;
+  max-width: 455px;
+  padding: 12px;
+  border-radius: 11px;
+  display: inline-block;
+
+  .listHeading {
+    margin: 15px 0;
+
+    .listHeading-count {
+      background-color: #33a9ab;
+      width: 90px;
+      height: 90px;
+      border-radius: 75px;
+      font-size: 32px;
+      display: inline-flex;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+    }
+  }
+}

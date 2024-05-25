@@ -1,0 +1,22 @@
+.form {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+  input {
+    background-color: #33a9ab8c;
+    outline: none;
+    border: 2px solid #33a9ab;
+    border-radius: 11px;
+    padding: 12px;
+  }
+
+  button {
+    border-radius: 11px;
+    background-color: #007e5e;
+    border: none;
+    color: white;
+    width: 3%;
+  }
+}
